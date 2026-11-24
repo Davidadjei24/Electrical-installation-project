@@ -1,0 +1,15 @@
+UMaT PROJECT WEBSITE FILES
+
+Upload these files into the ROOT of:
+Davidadjei24/Electrical-installation-project (main branch)
+
+Files in this package:
+- index.html                 Replace the existing index.html after checking its current version.
+- project-report.pdf         Add as a new file.
+- rear-view.jpg              Add as a new file.
+
+Important:
+- The existing repository already has project-photo.jpg. Keep it; index.html uses that filename.
+- Do not upload the earlier C16 draft schematic as the final wiring diagram. It conflicts with the C32 device shown on the board and in the report.
+- Add the corrected as-built schematic only after the actual wiring and earthing have been verified.
+- After upload, test the published GitHub Pages URL before making a QR code.
